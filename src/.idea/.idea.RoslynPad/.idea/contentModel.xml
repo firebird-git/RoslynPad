@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\adria\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\adria\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\adria\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\adria\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\adria\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_RoslynPad.-2131592119.00" t="ExcludeRecursive" />
+    <e p="C:\Users\adria\Documents\GitHub\RoslynPad\src" t="IncludeFlat">
+      <e p="Build" t="Include" />
+      <e p="Common" t="Include" />
+      <e p="Editor" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Roslyn" t="Include" />
+      <e p="RoslynPad" t="IncludeRecursive">
+        <e p="RoslynPad.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="RoslynPad.Avalonia" t="IncludeRecursive">
+        <e p="RoslynPad.Avalonia.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="RoslynPad.Build" t="IncludeRecursive">
+        <e p="RoslynPad.Build.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="RoslynPad.Common.UI" t="IncludeRecursive">
+        <e p="RoslynPad.Common.UI.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="RoslynPad.Editor.Avalonia" t="IncludeRecursive">
+        <e p="RoslynPad.Editor.Avalonia.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="RoslynPad.Editor.Shared" t="IncludeRecursive">
+        <e p="AvalonEditTextContainer.cs" t="Include" />
+        <e p="BraceMatcherHighlightRenderer.cs" t="Include" />
+        <e p="ClassificationHighlightColors.cs" t="Include" />
+        <e p="CodeSnippet.cs" t="Include" />
+        <e p="CodeTextEditor.cs" t="Include" />
+        <e p="CompletionResult.cs" t="Include" />
+        <e p="ContextActionsRenderer.cs" t="Include" />
+        <e p="DocumentUtilities.cs" t="Include" />
+        <e p="IClassificationHighlightColors.cs" t="Include" />
+        <e p="ICodeEditorCompletionProvider.cs" t="Include" />
+        <e p="ICompletionDataEx.cs" t="Include" />
+        <e p="IContextActionProvider.cs" t="Include" />
+        <e p="PropertyOptions.cs" t="Include" />
+        <e p="RoslynCodeEditor.cs" t="Include" />
+        <e p="RoslynCodeEditorCompletionProvider.cs" t="Include" />
+        <e p="RoslynCompletionData.cs" t="Include" />
+        <e p="RoslynContextActionProvider.cs" t="Include" />
+        <e p="RoslynHighlightingColorizer.cs" t="Include" />
+        <e p="RoslynOverloadProvider.cs" t="Include" />
+        <e p="RoslynPad.Editor.Shared.projitems" t="Include" />
+        <e p="RoslynPad.Editor.Shared.shproj" t="IncludeRecursive" />
+        <e p="RoslynSemanticHighlighter.cs" t="Include" />
+        <e p="SnippetInfoService.cs" t="Include" />
+        <e p="SnippetManager.cs" t="Include" />
+        <e p="TextMarker.cs" t="Include" />
+        <e p="TextMarkerService.cs" t="Include" />
+        <e p="TextMarkerToolTipProvider.cs" t="Include" />
+        <e p="TextViewExtensions.cs" t="Include" />
+      </e>
+      <e p="RoslynPad.Editor.Windows" t="IncludeRecursive">
+        <e p="RoslynPad.Editor.Windows.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="RoslynPad.Editor.Windows.Test" t="IncludeRecursive">
+        <e p="RoslynPad.Editor.Windows.Test.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="RoslynPad.Roslyn" t="IncludeRecursive">
+        <e p="RoslynPad.Roslyn.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="RoslynPad.Roslyn.Avalonia" t="IncludeRecursive">
+        <e p="RoslynPad.Roslyn.Avalonia.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="RoslynPad.Roslyn.Windows" t="IncludeRecursive">
+        <e p="RoslynPad.Roslyn.Windows.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="RoslynPad.Runtime" t="IncludeRecursive">
+        <e p="RoslynPad.Runtime.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="RoslynPad.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
